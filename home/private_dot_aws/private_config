@@ -1,0 +1,2 @@
+[profile do-tor1]
+endpoint_url = https://lon1.digitaloceanspaces.com
