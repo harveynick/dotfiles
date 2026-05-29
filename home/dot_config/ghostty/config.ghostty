@@ -1,5 +1,5 @@
 keybind = global:cmd+backquote=toggle_quick_terminal
-theme = dark:Catppuccin Frappe,light:Catppuccin Latte
+theme = dark:Catppuccin Mocha,light:Catppuccin Mocha
 font-family = Hack Nerd Font Mono Regular
 font-family-bold = Hack Nerd Font Mono Bold
 font-family-italic = Hack Nerd Font Mono Italic
